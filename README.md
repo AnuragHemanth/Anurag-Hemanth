@@ -33,12 +33,18 @@ Applications I've built include:
 ---
 # GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnuragHemanth&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnuragHemanth&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 # Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragHemanth&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragHemanth&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 # GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AnuragHemanth&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnuragHemanth&theme=tokyonight" />
+</p>
