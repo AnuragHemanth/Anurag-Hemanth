@@ -34,6 +34,8 @@ Applications I've built include:
 
 # GitHub Stats
 
-![Hemanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+# GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnuragHemanth&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragHemanth&layout=compact&theme=tokyonight)
