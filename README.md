@@ -37,7 +37,7 @@ Applications I've built include:
 
 # Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragHemanth&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragHemanth&layout=compact)
 
 # GitHub Streak
 
