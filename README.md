@@ -31,11 +31,14 @@ Applications I've built include:
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ---
-
-# GitHub Stats
-
 # GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnuragHemanth&show_icons=true&theme=tokyonight)
 
+# Top Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragHemanth&layout=compact&theme=tokyonight)
+
+# GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AnuragHemanth&theme=tokyonight)
